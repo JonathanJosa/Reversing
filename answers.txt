@@ -1,0 +1,13 @@
+level_1: 1337
+level2: flag{_y0u_f0und_key_}
+license_checker_3: 5555555555 | key == digits_sum = 50
+Challenge.Challenge: AGB6js5d9dkG7
+crackme1: flag{not_that_kind_of_elf}
+crackme2: super_secret_password
+crackme3: f0r_y0ur_5ec0nd_le55on_unbase64_4ll_7h3_7h1ng5
+crackme4: my_m0r3_secur3_pwd
+crackme5: OfdlDSA|3tXb32~X3tX@sX`4tXtz
+crackme5: flag: HackCTF{4s_e45y_4s_Gt_g3s_s}
+crackme6: 1337_pwd
+crackme7: flag{much_reversing_very_ida_wow}
+crackme8: -889262067
